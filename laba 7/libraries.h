@@ -33,5 +33,5 @@ enum Commands {
 };
 
 static const char *commands[] = { "help", "struct", "cd", "fd",
-								"exit", "newfl", "newfr", "del",
-								"push", "pop" };
+				"exit", "newfl", "newfr", "del",
+				"push", "pop" };
